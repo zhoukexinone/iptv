@@ -7,8 +7,8 @@ http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
 #EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K-Bestv
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/cctv4k/15000000/mnf.m3u8
 
-#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K-小果源-HLG-50P码率阉割版
-http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
+#EXTINF:-1,tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K-抖音-HLG-50P
+http://pull-hls-spe-l1.douyinliving.com/fantasy/stream-688813559861478070_spuhd/playlist.m3u8?_neptune_token=MIGVBAy0ydj8lY99LVYcCeEEc2JIIZB6-Y3XDyOr8IP_VP0h-KjfVIAcnM6uiQ1Nu4XW10I2NllNsJBEs5aFv0TBHgo6hTmmH5ugcLyMlbxPrUq1mqTzy_FEyf-X8GeGFkmzbZI2VbiYBVo4gHq-Q1tJux-eCWm6z0pPjqczPNriExftl3QEEBldoVmJFY8LdF-5CztMCek&keeptime=00015180&wsSecret=28f7a3acc4e66ad51edf9c62b7d282f0&wsTime=63cbde15
 
 #EXTINF:-1,tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4k
 http://223.109.123.15/liveplay-kk.rtxapp.com/live/program/live/hxjc4k/15000000/mnf.m3u8
