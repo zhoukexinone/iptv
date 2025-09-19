@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1,tvg-id="cctv1" tvg-name="cctv1" tvg-logo="https://11.112114.xyz/logo/cctv1.png" group-title="央视",cctv1-MCP
 https://live.ottiptv.cc/mcp/cctv1.m3u8?userid=918135990&sign=8eecedce41f26d48fa53bfaf834b0cf3f67a52e672f90424c5508bba23aade3a17dea1dbdf544f9db9cad7c85cc4edb5dccdfd4b1cfeb4c41045525040fcd9b5963779595f2fb69470509364&auth_token=eb7fc638b1db5964c1c5f5d138209170
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://11.112114.xyz/logo/cctv2.png" group-title="央视",cctv2-MCP
